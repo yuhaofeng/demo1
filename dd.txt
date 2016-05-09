@@ -1,6 +1,7 @@
 <?php echo "hhh";
 function hh(){
 	$auth='ad';
+	$aaa=1;
 	return $auth;
 }
 ?>
