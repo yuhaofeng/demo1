@@ -1,1 +1,6 @@
-<?php echo "hhh";?>
+<?php echo "hhh";
+function hh(){
+	$auth='ad';
+	return $auth;
+}
+?>
